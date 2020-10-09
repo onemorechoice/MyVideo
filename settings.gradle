@@ -1,2 +1,4 @@
+include ':libnavcompilter'
+include ':libnavannotion'
 include ':app'
 rootProject.name = "MyVideo"
